@@ -1,8 +1,10 @@
 ## alizete aparecida da veiga bueno dos santos
 
 **sobre mim** 
-- nome:alizete
-- idade:15
+
+nome:alizete
+  
+idade:15
 - cidade:ponta grossa
 - hobbie:ver serie
 - telefone:42999881660
