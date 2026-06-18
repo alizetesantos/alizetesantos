@@ -1,16 +1,16 @@
-## Hi there 👋
+## alizete aparecida da veiga bueno dos santos
 
-<!--
-**alizetesantos/alizetesantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**sobre mim** 
+- nome:alizete
+- idade:15
+- cidade:ponta grossa
+- hobbie:ver serie
+- telefone:42999881660
+**escolaridade**
+- faço exatas, no institudo de educação
+**objetivo proficional**
+- fazer nutrição
+- casar
+- ser bem sucedida
+**a frase que me descreve é**
+-life goen on
